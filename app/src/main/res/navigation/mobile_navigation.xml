@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_demo"
+        android:name="com.example.drawer.ui.demo.DemoFragment"
+        android:label="@string/menu_demo"
+        tools:layout="@layout/fragment_demo" />
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.drawer.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_flex"
+        android:name="com.example.drawer.ui.flexclub.FlexFragment"
+        android:label="@string/menu_flex"
+        tools:layout="@layout/fragment_flex" />
+
+    <fragment
+        android:id="@+id/nav_invite"
+        android:name="com.example.drawer.ui.invitefriends.InviteFriendsFragment"
+        android:label="@string/menu_invite"
+        tools:layout="@layout/fragment_invitefriends" />
+    <fragment
+        android:id="@+id/nav_withdraw"
+        android:name="com.example.drawer.ui.withdraw.WithdrawFragment"
+        android:label="@string/menu_withdraw"
+        tools:layout="@layout/fragment_withdraw" />
+    <fragment
+        android:id="@+id/nav_academy"
+        android:name="com.example.drawer.ui.academy.AcademyFragment"
+        android:label="@string/menu_academy"
+        tools:layout="@layout/fragment_academy" />
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.example.drawer.ui.help.HelpFragment"
+        android:label="@string/menu_help"
+        tools:layout="@layout/fragment_help" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.drawer.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/bottomHome"
+        android:name="com.example.drawer.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/bottomWatchlist"
+        android:name="com.example.drawer.ui.watchlist.WatchlistFragment"
+        android:label="@string/watchlist"
+        tools:layout="@layout/fragment_watchlist" />
+    <fragment
+        android:id="@+id/bottomPortfolio"
+        android:name="com.example.drawer.ui.portfolio.PortfolioFragment"
+        android:label="@string/portfolio"
+        tools:layout="@layout/fragment_portfolio" />
+    <fragment
+        android:id="@+id/bottomSupport"
+        android:name="com.example.drawer.ui.support.SupportFragment"
+        android:label="@string/support"
+        tools:layout="@layout/fragment_support" />
+</navigation>

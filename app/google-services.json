@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "466434284265",
+    "firebase_url": "https://dashyboard-906e7-default-rtdb.firebaseio.com",
+    "project_id": "dashyboard-906e7",
+    "storage_bucket": "dashyboard-906e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466434284265:android:98bea53eefa79bebb8ee78",
+        "android_client_info": {
+          "package_name": "com.example.bluemify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466434284265-g8lnibv89ev2dia1vchetn48gvnqq97b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAbes3T5XIclkxeHtD3E5caprcH_56sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466434284265-g8lnibv89ev2dia1vchetn48gvnqq97b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466434284265:android:6b831b3bd37f9617b8ee78",
+        "android_client_info": {
+          "package_name": "com.example.dashyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466434284265-g8lnibv89ev2dia1vchetn48gvnqq97b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAbes3T5XIclkxeHtD3E5caprcH_56sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466434284265-g8lnibv89ev2dia1vchetn48gvnqq97b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466434284265:android:71081e6513d223d5b8ee78",
+        "android_client_info": {
+          "package_name": "com.example.drawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466434284265-g8lnibv89ev2dia1vchetn48gvnqq97b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApAbes3T5XIclkxeHtD3E5caprcH_56sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466434284265-g8lnibv89ev2dia1vchetn48gvnqq97b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
